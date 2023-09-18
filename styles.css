@@ -18,7 +18,6 @@ body {
 }
 .container h3,
 h4 {
-  margin-left: 1;
 }
 .small-text {
   color: var(--grey-text-color);
@@ -56,7 +55,6 @@ h4 {
   }
   .container h3,
   h4 {
-    margin-left: 1;
   }
   .small-text {
     color: var(--grey-text-color);
